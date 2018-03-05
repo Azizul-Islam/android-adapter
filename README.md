@@ -57,7 +57,7 @@ dependencies
 
 }
 
-**Your Activity or Fragemtn format**
+**Your Activity or Fragment format**
 
 > class MainActivity : AppCompatActivity(), BaseListener<User> {
 
