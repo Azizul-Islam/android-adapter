@@ -4,14 +4,24 @@
 
 
 allprojects {
+
 		repositories {
+		
 			...
-			maven { url 'https://jitpack.io' }
+			
+			maven { url 'https://jitpack.io' 
+			
+			}
+			
 		}
+		
 	}
   
   
 
-dependencies {
+dependencies 
+       {
+
 	        compile 'com.github.Azizul-Islam:android-adapter:0.1.0'
+		
 	}
