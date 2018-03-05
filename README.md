@@ -23,3 +23,5 @@ dependencies
 	        compile 'com.github.Azizul-Islam:android-adapter:0.1.0'	
 		
 	}
+	
+**Create an adapter flowing below code**
