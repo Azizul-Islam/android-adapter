@@ -28,7 +28,7 @@ dependencies
 
 **Kotlin format**
 
-> class UserAdapter : BaseAdapter<User> {
+> class UserAdapter : BaseAdapter <User> {
   
     override fun isEqual(leftItem: User, rightItem: User): Boolean {
         return leftItem.name.equals(rightItem.name)
@@ -59,7 +59,7 @@ dependencies
 
 **Your Activity or Fragment format**
 
-> class MainActivity : AppCompatActivity(), BaseListener<User> {
+> class MainActivity : AppCompatActivity(), BaseListener <User> {
 
 
     lateinit var recyclerView : RecyclerView
