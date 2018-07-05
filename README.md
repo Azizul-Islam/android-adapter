@@ -20,7 +20,7 @@ allprojects {
 dependencies 
        {
        
-	        compile 'com.github.Azizul-Islam:android-adapter:0.1.0'	
+	        implementation 'com.github.azizcse:android-adapter:0.2.0'	
 		
 	}
 	
